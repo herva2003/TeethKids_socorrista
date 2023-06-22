@@ -1,0 +1,26 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pi3.teethkids_socorrista.teethkids_socorrista2">
+
+    <application
+        android:label="Teeth Kids"
+        android:icon="@mipmap/ic_launcher"
+        android:launchMode="singleTop"
+        android:theme="@style/LaunchTheme">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCe_m0xslCUa4t5Qv_HX"/>
+    </application>
+</manifest>

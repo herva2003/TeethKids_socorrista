@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>121312731935-8m0803a9ae41akf9p8p0fs4jack9tk07.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.121312731935-8m0803a9ae41akf9p8p0fs4jack9tk07</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCe_m0xslCUa4t5Qv_HX-ZGDaKrRkLr_ds</string>
+	<key>GCM_SENDER_ID</key>
+	<string>121312731935</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pi3.teethkidssocorrista.teethkidsSocorrista2</string>
+	<key>PROJECT_ID</key>
+	<string>teethkids-f3b6f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teethkids-f3b6f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:121312731935:ios:b4a84987bb2659d69a062a</string>
+</dict>
+</plist>

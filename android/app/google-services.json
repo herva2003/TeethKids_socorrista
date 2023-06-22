@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "121312731935",
+    "project_id": "teethkids-f3b6f",
+    "storage_bucket": "teethkids-f3b6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121312731935:android:ea72a017b440cb129a062a",
+        "android_client_info": {
+          "package_name": "com.example.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcfurW9P4JIMoVSn0ye4I6yd3qQ09mds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121312731935-1nd9keqhp2q3mm716lj0vt6f62ujhgjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121312731935:android:0b2e716ce28a74409a062a",
+        "android_client_info": {
+          "package_name": "com.example.teste_pi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcfurW9P4JIMoVSn0ye4I6yd3qQ09mds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121312731935-1nd9keqhp2q3mm716lj0vt6f62ujhgjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121312731935:android:88cd52ec4665dd309a062a",
+        "android_client_info": {
+          "package_name": "com.pi3.teethkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcfurW9P4JIMoVSn0ye4I6yd3qQ09mds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121312731935-1nd9keqhp2q3mm716lj0vt6f62ujhgjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121312731935:android:91d37e741fef3b679a062a",
+        "android_client_info": {
+          "package_name": "com.pi3.teethkids_socorrista.teethkids_socorrista2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcfurW9P4JIMoVSn0ye4I6yd3qQ09mds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121312731935-0j2jtbghm4f9j6tjvdl2vvfobqff5cvq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "121312731935-1nd9keqhp2q3mm716lj0vt6f62ujhgjt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
